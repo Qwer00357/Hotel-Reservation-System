@@ -77,23 +77,3 @@ POST /api/rooms
 POST /api/reservations
 GET /api/reservations
 GET /api/reservations/{id}
-
----
-
-## Running the Project
-
-Clone the repository
-
-git clone https://github.com/Qwer00357/hotel-reservation-system.git
-
-Navigate to the project folder
-
-cd src\main\java\com\example\hotelreservations
-
-Run the project
-
-./mvnw spring-boot:run
-
-The API will start on
-
-http://localhost:8080
